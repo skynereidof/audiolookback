@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Audio Loopback
+Comment=Run Audio Listening 
+Exec=python3 /usr/share/audiolookback/odsluch.py
+Icon=org.gnome.Settings-sound-symbolic
+Terminal=false
+Categories=AudioVideo;Audio;AudioVideoEditing;
